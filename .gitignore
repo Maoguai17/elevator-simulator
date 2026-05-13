@@ -1,0 +1,26 @@
+# executables
+*.out
+*.exe
+server
+client
+elevator_simulator
+test
+
+# object files
+*.o
+*.obj
+
+# build directories
+build/
+
+# cmake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+
+# vscode
+.vscode/
+
+# macOS
+.DS_Store
