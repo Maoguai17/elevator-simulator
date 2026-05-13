@@ -54,17 +54,18 @@ Run tests:
 
 ```text
 .
-├── client.cpp
-├── server.cpp
-├── elevator.cpp
-├── elevator.h
-├── scheduler.cpp
-├── scheduler.h
-├── main.cpp
-├── test.cpp
+├── src
+│   ├── client.cpp
+│   ├── server.cpp
+│   ├── elevator.cpp
+│   ├── elevator.h
+│   ├── scheduler.cpp
+│   ├── scheduler.h
+│   ├── main.cpp
+│   └── test.cpp
 ├── Makefile
-├── .gitignore
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## Environment
